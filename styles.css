@@ -26,7 +26,6 @@ header{
 	color: mistyrose;
 	font-size: 60px;
 	text-shadow: 4px 3px 3px #F10EB1;
-	
 }
 .center{
 	display: block;
@@ -155,4 +154,21 @@ footer{
   text-align: center;
   text-decoration: none;
   margin: 5px 5px;
+}
+.social-icons {
+  text-align: center;
+  }  
+.social-icons li {
+  display:inline-block;
+  list-style-type:none;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  }
+.social-icons li a {
+  border-bottom: none;
+  }
+.social-icons li img {
+  width:70px;
+  height:70px;
+  margin-right: 20px;
 }
