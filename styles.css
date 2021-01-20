@@ -130,5 +130,15 @@ footer{
 	font-family:Lucida Sans;
 	text-align:center;
 	color:black;
-	}
-#more {display: none;}
+}
+#more{
+	display: none;
+}
+.fa-facebook {
+ 	background: #3B5998;
+ 	color: white;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
